@@ -9,7 +9,7 @@ public:
 	GameWindow()
 		: Window(640, 480)
 	{
-		set_caption("Gosu Tutorial Game");
+		set_caption("Gosu Tutorial Game mit Git");
 	}
 
 	double x = 0;
